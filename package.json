@@ -1,0 +1,11 @@
+{
+  "name": "yarn-directories-bin-demo",
+  "packageManager": "yarn@3.6.4",
+  "scripts": {
+    "bar": "./script.cjs"
+  },
+  "dependencies": {
+    "jsbarcode": "^3.11.5",
+    "lodash": "^4.17.21"
+  }
+}
